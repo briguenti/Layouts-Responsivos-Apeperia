@@ -103,3 +103,6 @@ Blog
 Destaques
 Institucional
 Contato
+
+----------------
+REM se baseia na fonte size do html ao todo e EM é direto na tag mãe.
